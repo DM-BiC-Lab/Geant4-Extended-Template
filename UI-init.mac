@@ -1,0 +1,5 @@
+# Commands in this file are executed upon the Geant4 GUI being opened
+
+/vis/modeling/trajectories/create/drawByParticleID custom
+/vis/modeling/trajectories/custom/setRGBA opticalphoton 1 1 0.5 .5
+/vis/modeling/trajectories/custom/setRGBA proton 0 1 0 1
